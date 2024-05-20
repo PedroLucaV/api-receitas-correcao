@@ -1,9 +1,9 @@
 [
   {
-    "nome": "Bolo de banana simples",
+    "nome": "Bolo de Banana",
     "categoria": "Bolo",
     "ingredientes": [
-      "4 Ovos",
+      "4 ovos",
       "2 xícaras (chá) de açúcar",
       "4 colheres de sopa de margarina",
       "2 xícaras (chá) de farinha de trigo",
@@ -13,6 +13,41 @@
       "Açúcar e canela para polvilhar"
     ],
     "modo-de-preparo": "Misture os ovos com o açúcar e a margarina até ficar bem cremoso. Acrescente a farinha e incorpore bem. Adicione o bicarbonato, o fermento e a banana amassada e misture. Despeje em fôrma de sua preferência untada com margarina e polvilhada com açúcar e canela (se desejar, distribua fatias de banana por cima). Leve ao forno médio preaquecido (200 ºC) por cerca de 40 minutos ou até dourar. Desenforme morno e deixe esfriar.",
-    "id": "1"
+    "id": "1414b6bc-1904-4cdc-b022-3a94f59a1453",
+    "order": 1
+  },
+  {
+    "nome": "Bolo de Banana",
+    "categoria": "Bolo",
+    "ingredientes": [
+      "3 Caja",
+      "2 xícaras (chá) de açúcar",
+      "4 colheres de sopa de margarina",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 colher (café) de bicarbonato de sódio",
+      "1 colher (sobremesa) de fermento químico",
+      "4 bananas-prata maduras amassadas com o garfo",
+      "Açúcar e canela para polvilhar"
+    ],
+    "modo-de-preparo": "Misture os ovos com o açúcar e a margarina até ficar bem cremoso. Acrescente a farinha e incorpore bem. Adicione o bicarbonato, o fermento e a banana amassada e misture. Despeje em fôrma de sua preferência untada com margarina e polvilhada com açúcar e canela (se desejar, distribua fatias de banana por cima). Leve ao forno médio preaquecido (200 ºC) por cerca de 40 minutos ou até dourar. Desenforme morno e deixe esfriar.",
+    "id": "b8809f38-4953-4ade-b1de-160fd710d0ec",
+    "order": 2
+  },
+  {
+    "nome": "Bolo de Banana",
+    "categoria": "pratos principais",
+    "ingredientes": [
+      "2 Ovas",
+      "2 xícaras (chá) de açúcar",
+      "4 colheres de sopa de margarina",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 colher (café) de bicarbonato de sódio",
+      "1 colher (sobremesa) de fermento químico",
+      "4 bananas-prata maduras amassadas com o garfo",
+      "Açúcar e canela para polvilhar"
+    ],
+    "modo-de-preparo": "Misture os ovos com o açúcar e a margarina até ficar bem cremoso. Acrescente a farinha e incorpore bem. Adicione o bicarbonato, o fermento e a banana amassada e misture. Despeje em fôrma de sua preferência untada com margarina e polvilhada com açúcar e canela (se desejar, distribua fatias de banana por cima). Leve ao forno médio preaquecido (200 ºC) por cerca de 40 minutos ou até dourar. Desenforme morno e deixe esfriar.",
+    "id": "8ace5542-88a2-4f53-b0c4-4d62ee2fcb4e",
+    "order": 3
   }
 ]
